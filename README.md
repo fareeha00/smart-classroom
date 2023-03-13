@@ -1,12 +1,12 @@
 # smart-classroom
-Introduction 
+#Introduction 
 We are going to made a smart classroom by using Arduino. Our project has 2 parts 
 1. Smart lights and fans
 2. Fingerprint door lock
 We are making this system for reducing the consumption of energy and to reduce the disturbance during class. These are motion sensing lights and fans.
 Software and hardware setup: 
 The code is written in arduino. Altra sonic sensor will sense the motion and send this message to the Arduino. Arduino will make decision according to the code. The fans will be on until the person is in the room. When the person left the room the fans will be off automatically.
-Hardware installation: 
+#Hardware installation: 
 Arduino  Uno
 Ultra sonic sensors hc-sr04*2
 Jumper wires
